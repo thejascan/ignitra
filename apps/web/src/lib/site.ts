@@ -10,7 +10,7 @@ export const SITE_URL = (
 ).replace(/\/+$/, "");
 
 /** The source code (AGPL-3.0): linked from the site so every user can get it. */
-export const SOURCE_URL = "https://github.com/candramaulanaa31-cell/ignitra";
+export const SOURCE_URL = "https://github.com/thejascan/ignitra";
 
 /** IGNITRA on X. */
 export const X_HANDLE = "ignitra_run";
